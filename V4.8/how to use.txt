@@ -1,0 +1,6 @@
+How to use:
+1. Make sure u have python installed (im using 3.9). 
+2. open install.bat to install the pip packages
+3. open server.bat
+4. drag dream.exe into injector.exe and enjoy 
+5. webgui link is http://localhost:5555/dashboard/
